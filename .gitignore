@@ -1,0 +1,18 @@
+node_modules/
+test-temp/
+examples/sample-data/*.json
+examples/sample-data/*.txt
+examples/sample-data/*.csv
+examples/output/*
+!examples/output/.gitkeep
+!examples/sample-data/.gitkeep
+*.log
+.DS_Store
+client-test/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+*.pyo
+*.pyd
